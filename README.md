@@ -26,3 +26,11 @@
     2. le selecteur universels  ex: *{}
     3. les selecteurs d'identifiant  ex: #unique{}
     4. les selecteurs d'attributs  ex: input[type = 'text']{}
+
+   #### l'unité de base de mesure utilisé 
+    l'unité de base de mesure des dimension numérique est le pixel(px)
+
+   #### Code de couleur
+   1. FF00FF: sa couleur exate est le Magenda
+   2. 00FF00: sa couleur exate est le Vert vif
+   3. FF4500: sa couleur exacte est le Orange vif
