@@ -34,3 +34,6 @@
    1. FF00FF: sa couleur exate est le Magenda
    2. 00FF00: sa couleur exate est le Vert vif
    3. FF4500: sa couleur exacte est le Orange vif
+
+   ### la box model
+   1. la box model est un module css qui definit les boites rectangulaires qui sont generees pour disposer les elements selon leur mise en forme visuel
