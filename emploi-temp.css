@@ -10,3 +10,12 @@ table{
     text-align: center;
     text-transform: capitalize;
 }
+/* Mettre les jours en gras */
+.jours{
+    font-weight: bold;
+    font-size: 20px;
+}
+.heure{
+    font-style : italic;
+    font-size: 20px;
+}
