@@ -16,3 +16,13 @@
    7. `<figure`: on la place autour d'une image principale 
    8. `<p>` : defini un paragraphe
 
+   8. `<main>` : defini le contenu principale de la page
+   8. `<section>` : regroupe le contenu principale en plusieurs zones
+   8. `<footer>` : regroupe les elements de pieds de page
+
+   #### Les types de selecteurs en css    
+
+    1. les selecteurs de classe  ex: .nameClasse{}
+    2. le selecteur universels  ex: *{}
+    3. les selecteurs d'identifiant  ex: #unique{}
+    4. les selecteurs d'attributs  ex: input[type = 'text']{}
