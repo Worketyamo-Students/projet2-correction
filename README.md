@@ -15,3 +15,4 @@
    6. `<nav>` : balise le menu de navigation
    7. `<figure`: on la place autour d'une image principale 
    8. `<p>` : defini un paragraphe
+
